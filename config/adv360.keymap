@@ -62,7 +62,7 @@
 &trans  &trans  &trans  &trans  &trans  &trans  &none                                       &none   &trans  &trans           &trans        &trans      &trans   &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &none   &trans  &trans      &trans  &trans  &none   &trans  &trans           &trans        &trans      &trans   &trans
 &trans  &trans  &trans  &trans  &trans  &trans                  &trans      &trans                  &trans  &trans           &trans        &trans      &trans   &trans
-&trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans          &kp C_VOLUME_UP  &kp C_VOL_DN  &kp K_MUTE  &trans   &trans
+&trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans          &kp C_VOLUME_UP  &kp C_VOL_DN  &kp C_MUTE  &trans   &trans
             >;
         };
 
