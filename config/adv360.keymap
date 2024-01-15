@@ -65,7 +65,7 @@
 &trans  &trans  &trans    &kp UP    &trans     &trans  &none                                                     &none   &kp GRAVE  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp MINUS       &trans   &trans
 &trans  &trans  &kp LEFT  &kp DOWN  &kp RIGHT  &trans  &none   &trans      &trans        &trans         &kp DEL  &trans  &kp TILDE  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp UNDERSCORE  &trans   &trans
 &trans  &trans  &trans    &trans    &trans     &trans                      &kp HOME      &kp PAGE_UP                     &trans     &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp PIPE        &trans   &trans
-&trans  &trans  &trans    &trans    &trans             &trans  &kp DELETE  &kp END       &kp PAGE_DOWN  &trans   &trans             &trans                &trans                 &trans          &trans   &trans
+&trans  &trans  &trans    &trans    &trans             &trans  &kp DELETE  &kp END       &kp PAGE_DOWN  &trans   &trans             &kp LESS_THAN         &kp PERCENT            &kp EQUAL       &trans   &trans
             >;
         };
 
